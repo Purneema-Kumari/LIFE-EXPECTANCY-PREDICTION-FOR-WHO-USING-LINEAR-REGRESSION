@@ -1,0 +1,2 @@
+# LIFE-EXPECTANCY-PREDICTION-FOR-WHO-USING-LINEAR-REGRESSION
+In this project WHO wanted a data driven approach which would help countries suggesting in which area they should work upon to increase the life expectancy of their population. The objective of the project was to build a prediction engine which can predict the life expectancy based on various features like status of country, GDP, alcohol consumption, adult mortality rate etc.  
