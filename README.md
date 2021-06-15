@@ -29,6 +29,7 @@ This is how I got the starting point of my model building.
 **Model building:**
 
 I have started this step with dividing data into train and test. To built the model I have used recursive feature elimination(RFE) method. After passing the arbitrary selected columns by RFE I have manually evaluated each models p-value and VIF value. I kept dropping the variables unless I found the acceptable range for p-value and VIF. The values of R^2 and adj R^2 were 0.76 and 0.75 respectively. 
-Finally I have sorted some variables for final model building i.e. “Income composition”, “BMI”, “Total expenditure”, ”Status”, ”Adult mortality rate”, “thinness 1-19 years”, “HIV/AIDS”, “Infant deaths”.  
+Finally I have sorted some variables for final model building i.e. “Income composition”, “BMI”, “Total expenditure”, ”Status”, ”Adult mortality rate”, “thinness 1-19 years”, “HIV/AIDS”, “Infant deaths”. 
+
 
 
